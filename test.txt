@@ -1,1 +1,2 @@
-pysh pull down up
+pysh pull down u
+need or rowp
